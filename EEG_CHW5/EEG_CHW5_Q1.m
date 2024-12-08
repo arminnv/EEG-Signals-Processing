@@ -1,6 +1,5 @@
 close all
 clear
-% BiSIPL Lab 6
 % Part 1
 load('ElecPosXYZ') ;
 
