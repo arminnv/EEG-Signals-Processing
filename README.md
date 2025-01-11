@@ -5,7 +5,7 @@ This repository contains the coursework materials for the graduate course "EEG S
 
 - `HW1/`: Digitial Signal Processing, DFT, STFT
 - `HW2/`: EEG Denoising, PCA, ICA
-- `HW3/`: Semi-Blind Denoising, GEVD, Denoising Source Separtion
+- `HW3/`: Semi-Blind Denoising, GEVD, Denoising Source Separation
 - `HW4/`: EEG Patterns and Classification, Common Spatial Patterns, Cannonical Correlation Analysis
 - `HW5/`: Implementing and evaluating brain source localization methods including MNE, WMNE, LORETA, and Genetic Algorithm
 
