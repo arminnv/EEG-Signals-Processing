@@ -12,7 +12,7 @@ This repository contains the coursework materials for the graduate course "EEG S
 ## Syllabus
 
 1. Introductions
-2. Review Signal and Matrix
+2. Review Signal and Matrix, Stochastic Process
 3. Blind and Semi-Blind Denoising
 4. EEG Patterns
 5. BCI Systems
